@@ -4,4 +4,9 @@ The rapid mutation of SARS-CoV-2 necessitates accurate and efficient variant cla
 ## Dataset
 The dataset is provided in Dataset.zip.
 Unzip the file to access the data used for training the model.
-
+## Usage
+Open the Corona_virus_modeling.ipynb Jupyter Notebook.
+Run the cells to load the dataset (Dataset.zip) and train the model.
+Explore the results and modify parameters as needed.
+## Installation
+pip install -r requirements.txt
