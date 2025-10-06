@@ -1,12 +1,6 @@
 # Efficient-Classification-of-SARS-CoV-2-Spike-Sequences-Using-Graph-Based-Federated-Learning
 ## Overview
-The rapid mutation of SARS-CoV-2 necessitates accurate and efficient variant
-classification to support timely public health responses. In this study, we present an advanced
-federated learning (FL) framework that enables privacypreserving and decentralized
-classification of SARS-CoV-2 variants without requiring direct data sharing between
-institutions.
-By leveraging distributed data analysis, our approach ensures that local datasets remain
-confidential while still contributing to the global model’s learning process. To further
+The rapid mutation of SARS-CoV-2 necessitates accurate and efficient variant classification to support timely public health responses. In this study, we present an advanced federated learning (FL) framework that enables privacypreserving and decentralized classification of SARS-CoV-2 variants without requiring direct data sharing between institutions. By leveraging distributed data analysis, our approach ensures that local datasets remain confidential while still contributing to the global model’s learning process. To further
 improve classification performance, we incorporate Graph Neural Networks (GNNs) into
 the FL architecture. GNNs are particularly effective for modeling complex relationships in
 protein sequence data, allowing for more accurate variant identification. This hybrid
